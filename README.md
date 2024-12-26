@@ -1,18 +1,55 @@
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dashwood01&show_icons=true&theme=radical)
+# 👋 Hello, I'm Dashwood01!
 
-## Most Used Languages
+![Profile Views](https://komarev.com/ghpvc/?username=dashwood01&color=blue&style=flat-square)
+
+I am a passionate **Mobile Application Developer** with a strong focus on **Android** and **Flutter**. I love building user-friendly, modern applications with stunning **Material Design** and robust **backend integrations**.
+
+---
+
+## 🔧 Tech Stack
+
+### 🚀 Mobile Development
+- **Android (Java & Kotlin)**
+- **Flutter (Dart)**
+- **Material Design (UX/UI)**
+
+### 🖥️ Backend Development
+- **Java (REST APIs)**
+- **Laravel (PHP Framework)**
+
+### 💡 Additional Skills
+- **C# Projects**
+- **Dependency Injection**: Dagger Hilt
+- **State Management**: Provider, Riverpod
+- **UI/UX Design Best Practices**
+- **Database Integration**: SQLite, Firebase, Room
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dashwood01&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dashwood01&layout=compact&theme=radical)
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-## Achievements
+## 🏆 Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dashwood01&theme=radical)
 
+---
 
-## Random Dev Quote
+## 📌 Featured Repositories
+
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=dashwood01&repo=YourRepo1&theme=radical)](https://github.com/dashwood01/YourRepo1)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=dashwood01&repo=YourRepo2&theme=radical)](https://github.com/dashwood01/YourRepo2)
+
+---
+
+## ✨ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 📫 Contact Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammad-nazem)
+- **Email**: mohammadnazem71@gmail.com
