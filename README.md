@@ -26,34 +26,11 @@ I am a passionate **Mobile Application Developer** with a strong focus on **Andr
 
 ---
 
-## 📊 GitHub Stats
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dashwood01&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dashwood01&layout=compact&langs_count=6&hide=html,css&theme=radical)
-
 ### 🏅 Programming Expertise
 - **Main Languages**: Java, Kotlin, Dart, C#
 - **Backend Frameworks**: Laravel, Java REST APIs
 - **Mobile Development**: Android Native, Flutter
 - **Other Skills**: Dagger Hilt, Material Design, Firebase Integration
-
----
-
-## 🏆 Achievements
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dashwood01&theme=radical)
-
----
-
-## 📌 Featured Repositories
-
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=dashwood01&repo=YourRepo1&theme=radical)](https://github.com/dashwood01/YourRepo1)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=dashwood01&repo=YourRepo2&theme=radical)](https://github.com/dashwood01/YourRepo2)
-
----
-
-## ✨ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
